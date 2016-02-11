@@ -1,0 +1,24 @@
+{
+  "name": "interviewinator",
+  "version": "1.0.0",
+  "description": "The InterviewiNator 5000",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ES2015",
+    "webpack",
+    "code",
+    "highlighting"
+  ],
+  "author": "AJ, Raf, Scotty B",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.5.1",
+    "babel-loader": "^6.2.2",
+    "babel-preset-es2015": "^6.5.0",
+    "rx-lite": "^4.0.7",
+    "webpack": "^1.12.13"
+  }
+}
