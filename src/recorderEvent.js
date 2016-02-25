@@ -1,8 +1,8 @@
 export default class RecorderEvent {
 
-  constructor(time, value) {
-    this.time = time
+  constructor(value, time) {
     this.value = value
+    this.time = time
   }
 
 }

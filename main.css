@@ -1,0 +1,27 @@
+.container {
+    margin-left: 25%;
+}
+
+.left, .right {
+    display: inline-block;
+    width: 125px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.left {
+    clear: left;
+}
+
+.right {
+    position: relative;
+    clear: right;
+}
+
+.right button {
+    position: absolute;
+    margin: 0 0 0 75px;
+    color: azure;
+    background-color: black;
+    border: none;
+}
